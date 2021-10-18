@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Naruto Uzumaki",
+        "key": "1",
+        "country": "Japan",
+        "age": 17,
+        "clan": "Uzumaki",
+        "team": 7,
+        "salary": 2000,
+        "img": "https://cdn140.picsart.com/355182439052201.jpg"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "key": "2",
+        "country": "Japan",
+        "age": 25,
+        "clan": "Hatake",
+        "team": 70,
+        "salary": 3000,
+        "img": "https://i2.wp.com/myotakuworld.com/wp-content/uploads/2021/04/kakashi.jpg?resize=800%2C450&ssl=1"
+    },
+    {
+        "name": "Jiraiya Sensei",
+        "key": "3",
+        "country": "Japan",
+        "age": 45,
+        "clan": "N/A",
+        "team": 7,
+        "salary": 4000,
+        "img": "https://cdn130.picsart.com/358158502033201.jpg"
+    },
+    {
+        "name": "Minato Namikaze",
+        "key": "4",
+        "country": "Japan",
+        "age": 32,
+        "clan": "Namikaze",
+        "team": 70,
+        "salary": 6000,
+        "img": "https://pbs.twimg.com/profile_images/1326242042620633088/k-rUc3r7.jpg"
+    },
+    {
+        "name": "Obito Uchiha",
+        "key": "5",
+        "country": "Japan",
+        "age": 25,
+        "clan": "Uchiha",
+        "team": 70,
+        "salary": 5000,
+        "img": "https://i.pinimg.com/originals/d6/1a/c4/d61ac4b88fe7a212c57302d64e43a7bb.png"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "key": "6",
+        "country": "Japan",
+        "age": 17,
+        "clan": "Uchiha",
+        "team": 7,
+        "salary": 1000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlWsmL7aZ6FydNt5sEal0sLEdautPQqx6PDg&usqp=CAU"
+    },
+    {
+        "name": "Itachi Uchiha",
+        "key": "7",
+        "country": "Japan",
+        "age": 20,
+        "clan": "Uchiha",
+        "team": 9,
+        "salary": 4000,
+        "img": "https://c4.wallpaperflare.com/wallpaper/496/710/399/naruto-itachi-uchiha-nukenin-wallpaper-preview.jpg"
+    },
+    {
+        "name": "Hashirama Senju",
+        "key": "8",
+        "country": "Japan",
+        "age": 50,
+        "clan": "Senju",
+        "team": 10,
+        "salary": 9000,
+        "img": "https://thicc.mywaifulist.moe/waifus/33111/5b6bc4e9300ca5496ff99e852ff03a51951a833bd1cdea207060ecfc7e345ed3_thumb.png"
+    },
+    {
+        "name": "Madara Uchiha",
+        "key": "9",
+        "country": "Japan",
+        "age": 50,
+        "clan": "Uchiha",
+        "team": 10,
+        "salary": 8000,
+        "img": "data:image/jpeg;base64,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"
+    }
+]

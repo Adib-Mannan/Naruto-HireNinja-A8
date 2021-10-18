@@ -1,0 +1,14 @@
+.team-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 40px;
+   
+}
+.ninjas-container{
+    margin-left: 70px;
+}
+.cart-container{
+   padding-left: 10px;
+   border-left: 2px solid gray;
+   margin-left: 20px;
+ }
